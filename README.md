@@ -43,8 +43,7 @@ todo-app/
 └─ assets/
 icon.png
 
-yaml
-Copy code
+
 
 ---
 
